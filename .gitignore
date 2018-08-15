@@ -1,0 +1,5 @@
+# ignores this folder 
+node_modules/  
+
+# ignores my notes.txt file  
+notes.txt      
