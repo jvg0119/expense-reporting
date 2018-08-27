@@ -1,5 +1,9 @@
-# ignores this folder 
+# ignores this folder and files 
 node_modules/  
+public/bundle.js 
+public/bundle.js.map 
+public/styles.css 
+public/styles.css.map
 
 # ignores my notes.txt file  
 notes.txt      
