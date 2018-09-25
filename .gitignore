@@ -2,5 +2,8 @@
 node_modules/  
 public/dist/
 
-# ignores my notes.txt file  
-notes.txt      
+# ignores note files in this folder 
+/notes 
+
+.env.test
+.env.development
